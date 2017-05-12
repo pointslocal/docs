@@ -1,1 +1,1 @@
-Getting RSS?!
+Getting RSS
