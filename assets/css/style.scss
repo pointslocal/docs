@@ -4,10 +4,13 @@ body {
 
 	& ol {
 
-		p {
+		& p {
 
 			line-height: 1.8;
-			
+
+			& img {
+				margin: 5px;
+			}
 		}
 
 	}
