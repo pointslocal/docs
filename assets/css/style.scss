@@ -1,4 +1,15 @@
 @import "{{ site.theme }}";
 body {
+
+
+	& ol {
+
+		p {
+
+			line-height: 1.8;
+			
+		}
+
+	}
 	
 }
