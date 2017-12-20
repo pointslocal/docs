@@ -11,12 +11,19 @@
 1. **Log into admin**.  Make sure you are logged into your admin interface.  Note that these directions pertain exclusively to our version 2 admin.
 
 2. **Click `Events` Tab**. This will bring you to the general events presentation and search interface.
+[![Find](https://raw.githubusercontent.com/pointslocal/docs/master/assets/img/events_feature/events_nav.png)]
 
 3. **Locate and Open Event**.  Once you've searched for or located your event, click anywhere on the card to open the `Edit Event` interface.
+[![Edit](https://raw.githubusercontent.com/pointslocal/docs/master/assets/img/events_feature/events_edit.png)]
 
 4. **Toggle Today's Featured Status**.  If you only need to feature the event for today, click the toggle labeled `Featured` to toggle today's status on or off.  If you're done, click `Save Event`.
 
+
 5. **Select Multiple Days**.  If you need to schedule days, click the `Schedule` link below the featured toggle.  You'll be presented with 1-year calendar.  Clicking a single date will toggle its featured status for that day.  Double-clicking a date will start a date range that can be closed by double-clicking the end date.  This allows you to schedule an event for 3 days, 2 weeks or more without individually clicking each. When done, click `Save`
+
+[![Schedule](https://raw.githubusercontent.com/pointslocal/docs/master/assets/img/events_feature/events_schedule.png)]
+
+**Video:**
 [![Video](https://img.youtube.com/vi/-i5GjcCDH7k/0.jpg)](https://www.youtube.com/watch?v=-i5GjcCDH7k)
 
 6. **Save**
