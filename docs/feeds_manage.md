@@ -1,5 +1,5 @@
 # Managing Feeds
-> New Feed Views Summary:
+New Feed Views Summary:
 1. All Feeds Log: A dashboard view of all feeds and the results of their last run. Note: If a feed has been established but not yet run, the result data will be void and a grey dot will indicate that status.
 
 2. Individual Feed Log: Accessed by drill down from the All Feeds Log. This exposes the history of the last 100 runs of the feed. This may change to a different frequency as a result of QA or experience in production (i.e.: last two weeks of runs for the feed).
